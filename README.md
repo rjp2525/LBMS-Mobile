@@ -2,6 +2,8 @@
 
 This application is built with React Native for the Landscape Business Management Software application.
 
+![Preview](.github/preview.gif)
+
 ### Technology Stack
 
 - [React Native](https://reactnative.dev) - Cross-platform React framework that works with native platform capability
